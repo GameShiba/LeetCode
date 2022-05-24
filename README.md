@@ -1,6 +1,7 @@
 # LeetCode
 | # | Title | Solution | Difficulty | Related Topics |
 |---| ----- | -------- | ---------- | -------------- |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [C++](https://github.com/GameShiba/LeetCode/blob/cb0c40f80e5576938f6d1bdb07512561f800df99/32.%20Longest%20Valid%20Parentheses/32.%20Longest%20Valid%20Parentheses%20(Stack).cpp) | Hard | Parentheses<br>Stack |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [C++](https://github.com/GameShiba/LeetCode/blob/9eb4594ba53fcea8f0333e9cba0cd47c252b83a5/63.%20Unique%20Paths%20II/63.%20Unique%20Paths%20II%20(DP).cpp) | Medium | Matrix<br>Dynamic Programming |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [C++](https://github.com/GameShiba/LeetCode/blob/a111612e074dc4934205810068b18ec2d0b6f09c/322.%20Coin%20Change/322.%20Coin%20Change%20(DP).cpp) | Medium | Dynamic Programming |
 | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [C++](https://github.com/GameShiba/LeetCode/blob/c944fe54f9e3574712a77a20991cdfb1357b5889/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix%20(Topological%20Sort).cpp) | Hard | Matrix<br>Topological Sort |
