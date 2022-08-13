@@ -1,6 +1,7 @@
 # LeetCode
 | # | Title | Solution | Difficulty | Related Topics |
 |---| ----- | -------- | ---------- | -------------- |
+| 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [C++](https://github.com/GameShiba/LeetCode/blob/e781a55123c4acdf15cd4cf16c4c1ed37635d60b/30.%20Substring%20with%20Concatenation%20of%20All%20Words/30.%20Substring%20with%20Concatenation%20of%20All%20Words%20(Sliding%20Window).cpp) | Hard | String<br>Hash Table<br>Sliding Window |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [C++](https://github.com/GameShiba/LeetCode/blob/cb0c40f80e5576938f6d1bdb07512561f800df99/32.%20Longest%20Valid%20Parentheses/32.%20Longest%20Valid%20Parentheses%20(Stack).cpp) | Hard | Parentheses<br>Stack |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [C++](https://github.com/GameShiba/LeetCode/blob/f7b0f9a3b9621260ab66220ef9f1ea721d6610ec/51.%20N-Queens/51.%20N-Queens%20(Backtracking).cpp) | Hard | Matrix<br>Backtracking<br>Bit Manipulation |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [C++](https://github.com/GameShiba/LeetCode/blob/3c442fb08d2ac77f1cbbcbe72c2991f68735dddc/52.%20N-Queens%20II/52.%20N-Queens%20II%20(Backtracking).cpp) | Hard | Matrix<br>Backtracking<br>Bit Manipulation |
